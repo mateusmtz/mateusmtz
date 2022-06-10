@@ -1,4 +1,4 @@
-### Olá Mundo ! Sou Mateus Araújo, estudande de tecnologia. 👋
+### Olá Mundo ! Sou Mateus Araújo, estudante de tecnologia. 👋
 <hr>
 
 <div>
