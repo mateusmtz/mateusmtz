@@ -1,4 +1,4 @@
-### Olá Mundo ! Sou Mateus Araújo, estudante de tecnologia. 
+### Olá Mundo ! Sou Mateus Araújo, estudante de tecnologia. <a  href="https://www.linkedin.com/in/mateus-araujo-327431199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width ="100" align="right" /> </a>
 <hr>
 
 <div>
@@ -19,9 +19,9 @@
 
 
 
-
 </a>
-</div>
+</div><br/><br/>
+
   
   
   <!--
