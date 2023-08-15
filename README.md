@@ -1,4 +1,4 @@
-### Olá Mundo ! Sou Mateus Araújo, estudante de tecnologia. <a  href="https://www.linkedin.com/in/mateus-araujo-327431199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width ="100" align="right" /> </a>
+### Olá ! Sou Mateus Araújo, estudante de tecnologia. <a  href="https://www.linkedin.com/in/mateus-araujo-327431199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width ="100" align="right" /> </a>
 <hr>
 
 <div>
@@ -15,7 +15,7 @@
  <code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
  <code><img height="20" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></code>
  <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
- <code><img height="20" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"></code><br/>
+
 
 
 
